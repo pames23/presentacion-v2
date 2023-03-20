@@ -1,0 +1,23 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![YO](./imagenes/PCH.png \"Esta soy yo\")",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pames23/presentacion-v2.git"
+  },
+  "author": "pame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pames23/presentacion-v2/issues"
+  },
+  "homepage": "https://github.com/pames23/presentacion-v2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
